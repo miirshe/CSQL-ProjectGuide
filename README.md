@@ -78,7 +78,7 @@ Before starting this project, ensure you have the following installed:
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/miirshe/CSQL-ProjectGuide.git
     ```
 
 2. **Open the project in Visual Studio**.
