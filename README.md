@@ -38,8 +38,8 @@ Welcome to the project guidance session where we'll take you from **scratch to p
 - **Basic SQL Queries**: SELECT, INSERT, UPDATE, DELETE.
 - **Stored Procedures**: Creating and executing stored procedures.
 Here are some excellent YouTube channels and playlists that can help you learn SQL fundamentals, including database design, basic SQL queries, and stored procedures:
-- **Youtube**: [Programming with Mosh](https://www.youtube.com/watch?v=gfkTfcpWqAY)(https://www.youtube.com/watch?v=HXV3zeQKqGY)](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-- **Youtube**: [freeCodeCamp.org]((https://www.youtube.com/watch?v=gfkTfcpWqAY)(https://www.youtube.com/watch?v=HXV3zeQKqGY))
+- **Youtube**: [Programming with Mosh]([https://www.youtube.com/watch?v=gfkTfcpWqAY](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=1s))
+- **Youtube**: [freeCodeCamp.org]([https://www.youtube.com/watch?v=gfkTfcpWqAY](https://youtu.be/HXV3zeQKqGY?si=tjmd5dyFbmpFhNj3))
 
   
 ### 6. C# & SQL Integration
