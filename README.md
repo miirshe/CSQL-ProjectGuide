@@ -20,7 +20,6 @@ Welcome to the project guidance session where we'll take you from **scratch to p
 - **System Design**:
   - **Backend**: C# as the primary language.
   - **Database**: SQL for data storage, relationship modeling.
-  - **Frontend** (optional): Overview if applicable.
 
 ### 4. C# Fundamentals
 - **Basic Concepts**: Data types, loops, conditionals, and OOP principles.
