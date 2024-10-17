@@ -28,9 +28,9 @@ Welcome to the project guidance session where we'll take you from **scratch to p
   - Writing basic classes and methods.
 - **Object-Oriented Programming**: Understanding inheritance, polymorphism, encapsulation.
 - Here are some excellent YouTube channels and playlists that cover C# fundamentals, including basic concepts, project setup, and Object-Oriented Programming (OOP) principles:
-- **Youtube**: [Programming with Mosh](https://github.com/miirshe](https://www.youtube.com/watch?v=gfkTfcpWqAY)
-- **Youtube**: [freeCodeCamp.org](https://github.com/miirshe](https://www.youtube.com/watch?v=GhQdlIFylQ8)
-- **Youtube**: [Academind](https://github.com/miirshe](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
+- **Youtube**: [Programming with Mosh](https://www.youtube.com/watch?v=gfkTfcpWqAY)
+- **Youtube**: [freeCodeCamp.org](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+- **Youtube**: [Academind](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
 
 
 ### 5. SQL Fundamentals
@@ -38,8 +38,8 @@ Welcome to the project guidance session where we'll take you from **scratch to p
 - **Basic SQL Queries**: SELECT, INSERT, UPDATE, DELETE.
 - **Stored Procedures**: Creating and executing stored procedures.
 Here are some excellent YouTube channels and playlists that can help you learn SQL fundamentals, including database design, basic SQL queries, and stored procedures:
-- **Youtube**: [Programming with Mosh]([[[https://github.com/miirshe](https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY)](https://www.youtube.com/watch?v=7S_tz1z_5bA))
-- **Youtube**: [freeCodeCamp.org]([[https://github.com/miirshe](https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY))
+- **Youtube**: [Programming with Mosh](https://www.youtube.com/watch?v=gfkTfcpWqAY)(https://www.youtube.com/watch?v=HXV3zeQKqGY)](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- **Youtube**: [freeCodeCamp.org]((https://www.youtube.com/watch?v=gfkTfcpWqAY)(https://www.youtube.com/watch?v=HXV3zeQKqGY))
 
   
 ### 6. C# & SQL Integration
@@ -49,8 +49,8 @@ Here are some excellent YouTube channels and playlists that can help you learn S
   - Creating, reading, updating, and deleting records from the database.
  
 Here are some excellent YouTube channels and tutorials that focus on integrating C# and SQL, specifically using Entity Framework Core, setting up database connections, and performing CRUD operations:
-- **Youtube**: [RJ Code Advance EN]([[[[https://github.com/miirshe](https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY)](https://www.youtube.com/watch?v=7S_tz1z_5bA)](https://www.youtube.com/watch?v=WSBy_Ypgk38))
-- **Youtube**: [freeCodeCamp.org]([[https://github.com/miirshe](https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY))
+- **Youtube**: [RJ Code Advance EN]((https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY)](https://www.youtube.com/watch?v=7S_tz1z_5bA)](https://www.youtube.com/watch?v=WSBy_Ypgk38))
+- **Youtube**: [freeCodeCamp.org]((https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY))
 
 
 ### 7. Building the Project
