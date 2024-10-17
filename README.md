@@ -38,8 +38,8 @@ Welcome to the project guidance session where we'll take you from **scratch to p
 - **Basic SQL Queries**: SELECT, INSERT, UPDATE, DELETE.
 - **Stored Procedures**: Creating and executing stored procedures.
 Here are some excellent YouTube channels and playlists that can help you learn SQL fundamentals, including database design, basic SQL queries, and stored procedures:
-- **Youtube**: [Programming with Mosh]([https://www.youtube.com/watch?v=gfkTfcpWqAY](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=1s))
-- **Youtube**: [freeCodeCamp.org]([https://www.youtube.com/watch?v=gfkTfcpWqAY](https://youtu.be/HXV3zeQKqGY?si=tjmd5dyFbmpFhNj3))
+- **Youtube**: [Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=1s)
+- **Youtube**: [freeCodeCamp.org](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
   
 ### 6. C# & SQL Integration
@@ -49,8 +49,8 @@ Here are some excellent YouTube channels and playlists that can help you learn S
   - Creating, reading, updating, and deleting records from the database.
  
 Here are some excellent YouTube channels and tutorials that focus on integrating C# and SQL, specifically using Entity Framework Core, setting up database connections, and performing CRUD operations:
-- **Youtube**: [RJ Code Advance EN]((https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY)](https://www.youtube.com/watch?v=7S_tz1z_5bA)](https://www.youtube.com/watch?v=WSBy_Ypgk38))
-- **Youtube**: [freeCodeCamp.org]((https://www.youtube.com/watch?v=gfkTfcpWqAY)](https://www.youtube.com/watch?v=HXV3zeQKqGY))
+- **Youtube**: [RJ Code Advance EN](https://www.youtube.com/watch?v=WSBy_Ypgk38)
+- **Youtube**: [freeCodeCamp.org](https://www.youtube.com/watch?v=T8Mq8_Y7tgY)
 
 
 ### 7. Building the Project
@@ -67,7 +67,7 @@ Here are some excellent YouTube channels and tutorials that focus on integrating
 - **Code Cleanliness**: Writing maintainable and readable code.
 - **Security**: Basic best practices for handling database connections securely.
 - **Performance**: Optimizing SQL queries and database structure.
-
+- **Youtube**: [freeCodeCamp.org](https://www.youtube.com/watch?v=RGOj5yH7evk&t=3s)
 ### 9. Deployment
 - **SQL Server Deployment**: How to deploy your SQL database.
 - **Application Hosting**: Basics of deploying the C# application locally or on the cloud.
