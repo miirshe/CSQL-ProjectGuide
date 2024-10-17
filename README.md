@@ -28,9 +28,9 @@ Welcome to the project guidance session where we'll take you from **scratch to p
   - Writing basic classes and methods.
 - **Object-Oriented Programming**: Understanding inheritance, polymorphism, encapsulation.
 - Here are some excellent YouTube channels and playlists that cover C# fundamentals, including basic concepts, project setup, and Object-Oriented Programming (OOP) principles:
-- **Youtube**: [Programming with Mosh]([https://github.com/miirshe](https://www.youtube.com/watch?v=gfkTfcpWqAY))
-- **Youtube**: [freeCodeCamp.org]([https://github.com/miirshe](https://www.youtube.com/watch?v=GhQdlIFylQ8))
-- **Youtube**: [Academind]([https://github.com/miirshe](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105))
+- **Youtube**: [Programming with Mosh](https://github.com/miirshe](https://www.youtube.com/watch?v=gfkTfcpWqAY)
+- **Youtube**: [freeCodeCamp.org](https://github.com/miirshe](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+- **Youtube**: [Academind](https://github.com/miirshe](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
 
 
 ### 5. SQL Fundamentals
